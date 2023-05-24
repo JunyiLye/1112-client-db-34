@@ -1,0 +1,282 @@
+[
+    {
+        "id": 6,
+        "name": "Brown Brim",
+        "cat_id": 1,
+        "price": 25,
+        "remote_url": "https://i.ibb.co/ZYW3VTp/brown-brim.png",
+        "local_url": "/img/hats/brown-brim.png"
+    },
+    {
+        "id": 7,
+        "name": "Blue Beanie",
+        "cat_id": 1,
+        "price": 18,
+        "remote_url": "https://i.ibb.co/ypkgK0X/blue-beanie.png",
+        "local_url": "/img/hats/blue-beanie.png"
+    },
+    {
+        "id": 8,
+        "name": "Brown Cowboy",
+        "cat_id": 1,
+        "price": 35,
+        "remote_url": "https://i.ibb.co/QdJwgmp/brown-cowboy.png",
+        "local_url": "/img/hats/brown-cowboy.png"
+    },
+    {
+        "id": 9,
+        "name": "Grey Brim",
+        "cat_id": 1,
+        "price": 25,
+        "remote_url": "https://i.ibb.co/RjBLWxB/grey-brim.png",
+        "local_url": "/img/hats/grey-brim.png"
+    },
+    {
+        "id": 10,
+        "name": "Green Beanie",
+        "cat_id": 1,
+        "price": 18,
+        "remote_url": "https://i.ibb.co/YTjW3vF/green-beanie.png",
+        "local_url": "/img/hats/green-beanie.png"
+    },
+    {
+        "id": 11,
+        "name": "Palm Tree Cap",
+        "cat_id": 1,
+        "price": 14,
+        "remote_url": "https://i.ibb.co/rKBDvJX/palm-tree-cap.png",
+        "local_url": "/img/hats/palm-tree-cap.png"
+    },
+    {
+        "id": 12,
+        "name": "Red Beanie",
+        "cat_id": 1,
+        "price": 18,
+        "remote_url": "https://i.ibb.co/bLB646Z/red-beanie.png",
+        "local_url": "/img/hats/red-beanie.png"
+    },
+    {
+        "id": 13,
+        "name": "Wolf Cap",
+        "cat_id": 1,
+        "price": 14,
+        "remote_url": "https://i.ibb.co/1f2nWMM/wolf-cap.png",
+        "local_url": "/img/hats/wolf-cap.png"
+    },
+    {
+        "id": 14,
+        "name": "Blue Snapback",
+        "cat_id": 1,
+        "price": 16,
+        "remote_url": "https://i.ibb.co/X2VJP2W/blue-snapback.png",
+        "local_url": "/img/hats/blue-snapback.png"
+    },
+    {
+        "id": 15,
+        "name": "Black Jean Shearling",
+        "cat_id": 2,
+        "price": 125,
+        "remote_url": "https://i.ibb.co/XzcwL5s/black-shearling.png",
+        "local_url": "/img/jackets/black-shearling.png"
+    },
+    {
+        "id": 16,
+        "name": "Blue Jean Jacket",
+        "cat_id": 2,
+        "price": 90,
+        "remote_url": "https://i.ibb.co/mJS6vz0/blue-jean-jacket.png",
+        "local_url": "/img/jackets/blue-jean-jacket.png"
+    },
+    {
+        "id": 17,
+        "name": "Grey Jean Jacket",
+        "cat_id": 2,
+        "price": 90,
+        "remote_url": "https://i.ibb.co/N71k1ML/grey-jean-jacket.png",
+        "local_url": "/img/jackets/grey-jean-jacket.png"
+    },
+    {
+        "id": 18,
+        "name": "Brown Shearling",
+        "cat_id": 2,
+        "price": 165,
+        "remote_url": "https://i.ibb.co/s96FpdP/brown-shearling.png",
+        "local_url": "/img/jackets/brown-shearling.png"
+    },
+    {
+        "id": 19,
+        "name": "Tan Trench",
+        "cat_id": 2,
+        "price": 185,
+        "remote_url": "https://i.ibb.co/M6hHc3F/brown-trench.png",
+        "local_url": "/img/jackets/brown-trench.png"
+    },
+    {
+        "id": 20,
+        "name": "Adidas NMD",
+        "cat_id": 3,
+        "price": 220,
+        "remote_url": "https://i.ibb.co/0s3pdnc/adidas-nmd.png",
+        "local_url": "/img/sneakers/adidas-nmd.png"
+    },
+    {
+        "id": 21,
+        "name": "Adidas Yeezy",
+        "cat_id": 3,
+        "price": 280,
+        "remote_url": "https://i.ibb.co/dJbG1cT/yeezy.png",
+        "local_url": "/img/sneakers/yeezy.png"
+    },
+    {
+        "id": 22,
+        "name": "Black Converse",
+        "cat_id": 3,
+        "price": 110,
+        "remote_url": "https://i.ibb.co/bPmVXyP/black-converse.png",
+        "local_url": "/img/sneakers/black-converse.png"
+    },
+    {
+        "id": 23,
+        "name": "Nike White AirForce",
+        "cat_id": 3,
+        "price": 160,
+        "remote_url": "https://i.ibb.co/1RcFPk0/white-nike-high-tops.png",
+        "local_url": "/img/sneakers/white-nike-high-tops.png"
+    },
+    {
+        "id": 24,
+        "name": "Nike Red High Tops",
+        "cat_id": 3,
+        "price": 160,
+        "remote_url": "https://i.ibb.co/QcvzydB/nikes-red.png",
+        "local_url": "/img/sneakers/nikes-red.png"
+    },
+    {
+        "id": 25,
+        "name": "Nike Brown High Tops",
+        "cat_id": 3,
+        "price": 160,
+        "remote_url": "https://i.ibb.co/fMTV342/nike-brown.png",
+        "local_url": "/img/sneakers/nike-brown.png"
+    },
+    {
+        "id": 26,
+        "name": "Air Jordan Limited",
+        "cat_id": 3,
+        "price": 190,
+        "remote_url": "https://i.ibb.co/w4k6Ws9/nike-funky.png",
+        "local_url": "/img/sneakers//nike-funky.png"
+    },
+    {
+        "id": 27,
+        "name": "Timberlands",
+        "cat_id": 3,
+        "price": 200,
+        "remote_url": "https://i.ibb.co/Mhh6wBg/timberlands.png",
+        "local_url": "/img/sneakers/timberlands.png"
+    },
+    {
+        "id": 28,
+        "name": "Blue Tanktop",
+        "cat_id": 4,
+        "price": 25,
+        "remote_url": "https://i.ibb.co/7CQVJNm/blue-tank.png",
+        "local_url": "/img/womens/blue-tank.png"
+    },
+    {
+        "id": 29,
+        "name": "Floral Blouse",
+        "cat_id": 4,
+        "price": 20,
+        "remote_url": "https://i.ibb.co/4W2DGKm/floral-blouse.png",
+        "local_url": "/img/womens/floral-blouse.png"
+    },
+    {
+        "id": 30,
+        "name": "Floral Dress ",
+        "cat_id": 4,
+        "price": 80,
+        "remote_url": "https://i.ibb.co/KV18Ysr/floral-skirt.png",
+        "local_url": "/img/womens/floral-skirt.png"
+    },
+    {
+        "id": 31,
+        "name": "Red Dots Dress",
+        "cat_id": 4,
+        "price": 80,
+        "remote_url": "https://i.ibb.co/N3BN1bh/red-polka-dot-dress.png",
+        "local_url": "/img/womens/red-polka-dot-dress.png"
+    },
+    {
+        "id": 32,
+        "name": "Striped Sweater",
+        "cat_id": 4,
+        "price": 45,
+        "remote_url": "https://i.ibb.co/KmSkMbH/striped-sweater.png",
+        "local_url": "/img/womens/striped-sweater.png"
+    },
+    {
+        "id": 33,
+        "name": "Yellow Track Suit",
+        "cat_id": 4,
+        "price": 135,
+        "remote_url": "https://i.ibb.co/v1cvwNf/yellow-track-suit.png",
+        "local_url": "/img/womens/yellow-track-suit.png"
+    },
+    {
+        "id": 34,
+        "name": "White Blouse",
+        "cat_id": 4,
+        "price": 20,
+        "remote_url": "https://i.ibb.co/qBcrsJg/white-vest.png",
+        "local_url": "/img/womens/white-vest.png"
+    },
+    {
+        "id": 35,
+        "name": "Camo Down Vest",
+        "cat_id": 5,
+        "price": 325,
+        "remote_url": "https://i.ibb.co/xJS0T3Y/camo-vest.png",
+        "local_url": "/img/mens/camo-vest.png"
+    },
+    {
+        "id": 36,
+        "name": "Floral T-shirt",
+        "cat_id": 5,
+        "price": 20,
+        "remote_url": "https://i.ibb.co/qMQ75QZ/floral-shirt.png",
+        "local_url": "/img/mens/floral-shirt.png"
+    },
+    {
+        "id": 37,
+        "name": "Black & White Longsleeve",
+        "cat_id": 5,
+        "price": 25,
+        "remote_url": "https://i.ibb.co/55z32tw/long-sleeve.png",
+        "local_url": "/img/mens/long-sleeve.png"
+    },
+    {
+        "id": 38,
+        "name": "Pink T-shirt ",
+        "cat_id": 5,
+        "price": 25,
+        "remote_url": "https://i.ibb.co/RvwnBL8/pink-shirt.png",
+        "local_url": "/img/mens/pink-shirt.png"
+    },
+    {
+        "id": 39,
+        "name": "Jean Long Sleeve",
+        "cat_id": 5,
+        "price": 40,
+        "remote_url": "https://i.ibb.co/VpW4x5t/roll-up-jean-shirt.png",
+        "local_url": "/img/mens/roll-up-jean-shirt.png"
+    },
+    {
+        "id": 40,
+        "name": "Burgundy T-shirt",
+        "cat_id": 5,
+        "price": 25,
+        "remote_url": "https://i.ibb.co/mh3VM1f/polka-dot-shirt.png",
+        "local_url": "/img/mens/polka-dot-shirt.png"
+    }
+]
