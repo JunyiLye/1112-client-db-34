@@ -43,7 +43,7 @@ const Shop2Page_34 = () => {
           )
         })}
         
-        <div className="collection-item">
+        {/* <div className="collection-item">
           <img
             className="image"
             src="https://i.ibb.co/4W2DGKm/floral-blouse.png"
@@ -53,7 +53,7 @@ const Shop2Page_34 = () => {
             <span className="price">20</span>
           </div>
           <button className="custom-button">Add to Card</button>
-        </div>
+        </div> */}
         
       </div>
     </div>
