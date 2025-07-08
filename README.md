@@ -1,3 +1,8 @@
+# What Is This Project About?
+
+This project is a test project in Database class at my college for learning basic of web development. We learnt how to handle Postgresql, Supabase and React and run a shop catalog website in this project.
+Since the Supabase database are expired(over 90 days), therefore the Shop2Page is not working anymore(http://localhost:3000/supa_shop2_34)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
