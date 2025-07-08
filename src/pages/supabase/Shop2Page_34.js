@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react';
+import apikey from '../../apikey.js'
 
 const Shop2Page_34 = () => {
   const [products, setProducts ] = useState([]);
@@ -8,8 +9,8 @@ const Shop2Page_34 = () => {
         const response = await fetch(`https://fvrblhdevzlksdpibgfv.supabase.co/rest/v1/shop2_34?select=*`, {
           method: 'GET',
           headers: {
-            apikey: `eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZ2cmJsaGRldnpsa3NkcGliZ2Z2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE2ODI0ODg2NDIsImV4cCI6MTk5ODA2NDY0Mn0.FgF-29UktvIYFlC5BAfr3q83RZ0Noa9rseBX2SrmCeQ`,
-            Authorization: `Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZ2cmJsaGRldnpsa3NkcGliZ2Z2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE2ODI0ODg2NDIsImV4cCI6MTk5ODA2NDY0Mn0.FgF-29UktvIYFlC5BAfr3q83RZ0Noa9rseBX2SrmCeQ`,
+            apikey,
+            Authorization: `Bearer ${apikey}`,
           }
         });
         const data = await response.json();
